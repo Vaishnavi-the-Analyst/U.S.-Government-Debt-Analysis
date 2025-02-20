@@ -50,6 +50,7 @@ Identified key economic events impacting debt fluctuations
 + Forecasted future public debt levels and potential risks
 
 ## Files in This Repository
-<a href="">Raw_data.xlsx – Original dataset<a/>                
-<a href="">US_debt_project.xlsx – Cleaned dataset with analysis<a/>    
-<a href="">Analysis of U.S. Government Debt Trends and Projections.pdf – Final report<a/> 
+<a href="https://github.com/Vaishnavi-the-Analyst/U.S.-Government-Debt-Analysis/blob/main/Raw_data.xlsx">Raw_data.xlsx – Original dataset<a/>                
+<a href="https://github.com/Vaishnavi-the-Analyst/U.S.-Government-Debt-Analysis/blob/main/US_debt_project.xlsx">US_debt_project.xlsx – Cleaned dataset with analysis<a/>    
+<a href="https://github.com/Vaishnavi-the-Analyst/U.S.-Government-Debt-Analysis/blob/main/Analysis%20of%20U.S.%20Government%20Debt%20Trends%20and%20Projections.pdf
+">Analysis of U.S. Government Debt Trends and Projections.pdf – Final report<a/> 
